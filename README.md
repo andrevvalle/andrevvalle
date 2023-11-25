@@ -10,9 +10,6 @@ Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e ef
 ## Minhas Habilidades
 Possuo muitas habilidades como programador, comecei no javascript quando o Jquery ainda era hype, utilizei praticamente todos os frameworks e bibliotecas javascript desde os seus surgimentos desde Motools, AngularJS, EmberJs, Backbone entre muitos outros onde escolhi que React era meu favorito, o inicio da minha carreira eu desenvolvia em PHP e acabei migrando para Javascript como minha linguagem de especialidade, ja atuei com muitas linguagens de backend como Python, Java, Ruby on Rails, GoLang.
 
-## Estatísticas do GitHub
-![Seu Nome](https://github-readme-stats.vercel.app/api?username=andrevvalle&show_icons=true)
-
 ## Entre em Contato
 - LinkedIn: [seu LinkedIn](https://www.linkedin.com/in/andrevvalle/)
 - E-mail: andrevvalle[@]gmail[.]com
