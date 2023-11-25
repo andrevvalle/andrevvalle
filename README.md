@@ -1,16 +1,22 @@
-### Hi there 👋
+# Olá, sou André Valle 👋
 
-<!--
-**andrevvalle/andrevvalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e eficientes. Com experiência em de mais de 10 anos com Javascript client e server side, estou sempre buscando projetos que me desafiem crescer e me tirem da zona de conforto.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente, estou trabalhando em como CTO de uma agência de marketing digital, desenvolvendo sites em alta performance com nextjs, criei um CLI para automatizar o desenvolvimento de sites e landing pages de forma rapida para tornar o modelo de negócio da agência mais escalável, a CLT define um template dentre vários temas que desenvolvemos para cada segmento de mercado.
+- 🌱 Estou aprendendo mais sobre desenvolvimento de Sass..
+- ⚡ Curiosidade: programação sempre foi meu hobbie desde a adolescência, mas também gosto de tocar violão, jogar online e meu esporte favorito é o Jiu-Jitsu.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Minhas Habilidades
+Possuo muitas habilidades como programador, comecei no javascript quando o Jquery ainda era hype, utilizei praticamente todos os frameworks e bibliotecas javascript desde os seus surgimentos desde Motools, AngularJS, EmberJs, Backbone entre muitos outros onde escolhi que React era meu favorito, o inicio da minha carreira eu desenvolvia em PHP e acabei migrando para Javascript como minha linguagem de especialidade, ja atuei com muitas linguagens de backend como Python, Java, Ruby on Rails, GoLang.
+
+## Estatísticas do GitHub
+![Seu Nome](https://github-readme-stats.vercel.app/api?username=andrevvalle&show_icons=true)
+
+## Entre em Contato
+- LinkedIn: [seu LinkedIn](https://www.linkedin.com/in/andrevvalle/)
+- E-mail: andrevvalle[@]gmail[.]com
+
+---
+
+⭐️ De [andrevvalle](https://github.com/andrevvalle)
