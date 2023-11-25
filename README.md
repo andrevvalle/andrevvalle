@@ -4,7 +4,6 @@
 Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e eficientes. Com experiência em de mais de 10 anos com Javascript client e server side, estou sempre buscando projetos que me desafiem crescer e me tirem da zona de conforto.
 
 - 🔭 Atualmente, estou trabalhando em como CTO de uma agência de marketing digital, desenvolvendo sites em alta performance com nextjs, criei um CLI para automatizar o desenvolvimento de sites e landing pages de forma rapida para tornar o modelo de negócio da agência mais escalável, a CLT define um template dentre vários temas que desenvolvemos para cada segmento de mercado.
-- 🌱 Estou aprendendo mais sobre desenvolvimento de Sass..
 - ⚡ Curiosidade: programação sempre foi meu hobbie desde a adolescência, mas também gosto de tocar violão, jogar online e meu esporte favorito é o Jiu-Jitsu.
 
 ## Minhas Habilidades
