@@ -1,12 +1,12 @@
-# Olá, sou André Valle 👋
+# Hello, I'm André Valle 👋
 
-## Sobre Mim
-Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e eficientes. Com experiência em de mais de 10 anos com Javascript client e server side, estou sempre buscando projetos que me desafiem crescer e me tirem da zona de conforto.
+## About Me
+I'm a software developer passionate about creating innovative and efficient solutions. With over 10 years of experience in both client and server-side JavaScript, I'm always seeking projects that challenge me to grow and push me out of my comfort zone.
 
-- 🔭 Atualmente, estou trabalhando em como CTO de uma agência de marketing digital, desenvolvendo sites em alta performance com nextjs, criei um CLI para automatizar o desenvolvimento de sites e landing pages de forma rapida para tornar o modelo de negócio da agência mais escalável, a CLI define um template dentre vários temas que desenvolvemos para cada segmento de mercado.
-- ⚡ Curiosidade: programação sempre foi meu hobbie desde a adolescência, mas também gosto de tocar violão, jogar online e meu esporte favorito é o Jiu-Jitsu.
+- 🔭 Currently, I'm working as the CTO of a digital marketing agency, developing high-performance websites with Next.js. I've created a CLI to automate the rapid development of websites and landing pages, making the agency's business model more scalable. The CLI defines a template from various themes we've developed for each market segment.
+- ⚡ Fun Fact: Programming has always been my hobby since adolescence, but I also enjoy playing the guitar, gaming online, and my favorite sport is Jiu-Jitsu.
 
-## Minhas Habilidades
+## My Skills
 **My Favorite Stack:**
 
 - **JavaScript:**
