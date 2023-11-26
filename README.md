@@ -38,16 +38,11 @@ I'm a software developer passionate about creating innovative and efficient solu
 
 - **Databases:**
   - Postgres
-  - GraphQL
   - MongoDB
-  - Redis
 
 - **Others:**
   - **Version Control:**
     - Git
-
-  - **Container Orchestration:**
-    - Kubernetes
 
   - **Frontend Styling:**
     - CSS preprocessors (e.g., Sass, Less)
@@ -55,7 +50,7 @@ I'm a software developer passionate about creating innovative and efficient solu
     - ChakraUI
     - Tailwind CSS
     - ShadcnUI
-    - Linaria (CSS in JS library)
+    - Linaria
 
   - **State Management:**
     - Redux
@@ -67,9 +62,6 @@ I'm a software developer passionate about creating innovative and efficient solu
 
   - **Build Tools:**
     - Webpack
-
-  - **Server-Side Rendering (SSR):**
-    - Next.js
 
   - **Authentication/Authorization:**
     - OAuth
@@ -108,7 +100,7 @@ I'm a software developer passionate about creating innovative and efficient solu
     - Figma
     - Canva
 
-I've dabbled in a few programming languages and stacks, like Java, C#, GoLang, Rails, and Python, but they're not exactly my forte.
+I've dabbled in a few programming languages and stacks, like Php, GoLang, Rails and Shellscript, but they're not exactly my forte.
 
 ## Entre em Contato
 - LinkedIn: [seu LinkedIn](https://www.linkedin.com/in/andrevvalle/)
