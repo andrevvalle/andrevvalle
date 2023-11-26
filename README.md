@@ -7,75 +7,99 @@ Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e ef
 - ⚡ Curiosidade: programação sempre foi meu hobbie desde a adolescência, mas também gosto de tocar violão, jogar online e meu esporte favorito é o Jiu-Jitsu.
 
 ## Minhas Habilidades
-MY FAVORITE STACK:
-  - Javascript: ReactJs, NextJS.
-  - NodeJs.
-  - Docker.
-  - Infra (Netlify, Vercel, AWS, DigitalOcean).
-  - CMS: Strapi, Sanity, Contentful, DecapCMS.
-  - Postgres, GraphQL, MongoDB and Redis.
+**My Favorite Stack:**
 
-Others:
-Version Control:
-Git
+- **JavaScript:**
+  - ReactJS
+  - NextJS
 
-Container Orchestration:
-Kubernetes
+- **NodeJS**
 
-Frontend Styling:
-CSS preprocessors (e.g., Sass, Less)
-Styled-components
-ChakraUI, Tailwind Css, ShadcnUI, Linaria CSS in JS library.
+- **Docker**
 
-State Management:
-Redux
-Context API
+- **Infrastructure:**
+  - Netlify
+  - Vercel
+  - AWS
+  - DigitalOcean
 
-Testing:
-Jest (for JavaScript/React testing)
-Testing Library (e.g., React Testing Library)
+- **Content Management Systems (CMS):**
+  - Strapi
+  - Sanity
+  - Contentful
+  - DecapCMS
 
-Build Tools:
-Webpack
+- **Databases:**
+  - Postgres
+  - GraphQL
+  - MongoDB
+  - Redis
 
-Server-Side Rendering (SSR):
-Next.js
+- **Others:**
+  - **Version Control:**
+    - Git
 
-Authentication/Authorization:
-OAuth
-JSON Web Tokens (JWT)
+  - **Container Orchestration:**
+    - Kubernetes
 
-Monitoring and Logging:
-Sentry
-ELK Stack (Elasticsearch, Logstash, Kibana)
+  - **Frontend Styling:**
+    - CSS preprocessors (e.g., Sass, Less)
+    - Styled-components
+    - ChakraUI
+    - Tailwind CSS
+    - ShadcnUI
+    - Linaria (CSS in JS library)
 
-GraphQL Tools:
-Apollo Client/Server
+  - **State Management:**
+    - Redux
+    - Context API
 
-WebSockets:
-Socket.IO
+  - **Testing:**
+    - Jest (for JavaScript/React testing)
+    - Testing Library (e.g., React Testing Library)
 
-Task Runners:
-npm scripts
+  - **Build Tools:**
+    - Webpack
 
-API Documentation:
-Swagger/OpenAPI
+  - **Server-Side Rendering (SSR):**
+    - Next.js
 
-Code Quality:
-ESLint
-Prettier
+  - **Authentication/Authorization:**
+    - OAuth
+    - JSON Web Tokens (JWT)
 
-Continuous Integration/Continuous Deployment (CI/CD):
-Jenkins
-GitLab CI
-GitHub Actions
+  - **Monitoring and Logging:**
+    - Sentry
+    - ELK Stack (Elasticsearch, Logstash, Kibana)
 
-Database Management:
-Sequelize (for PostgreSQL)
-Mongoose (for MongoDB)
+  - **GraphQL Tools:**
+    - Apollo Client/Server
 
-Design Tools:
-Figma, Canva, 
+  - **WebSockets:**
+    - Socket.IO
+
+  - **Task Runners:**
+    - npm scripts
+
+  - **API Documentation:**
+    - Swagger/OpenAPI
+
+  - **Code Quality:**
+    - ESLint
+    - Prettier
+
+  - **Continuous Integration/Continuous Deployment (CI/CD):**
+    - Jenkins
+    - GitLab CI
+    - GitHub Actions
+
+  - **Database Management:**
+    - Sequelize (for PostgreSQL)
+    - Mongoose (for MongoDB)
+
+  - **Design Tools:**
+    - Figma
+    - Canva
 
 I've dabbled in a few programming languages and stacks, like Java, C#, GoLang, Rails, and Python, but they're not exactly my forte.
 
