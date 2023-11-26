@@ -15,6 +15,68 @@ MY FAVORITE STACK:
   - CMS: Strapi, Sanity, Contentful, DecapCMS.
   - Postgres, GraphQL, MongoDB and Redis.
 
+Others:
+Version Control:
+Git
+
+Container Orchestration:
+Kubernetes
+
+Frontend Styling:
+CSS preprocessors (e.g., Sass, Less)
+Styled-components
+ChakraUI, Tailwind Css, ShadcnUI, Linaria CSS in JS library.
+
+State Management:
+Redux
+Context API
+
+Testing:
+Jest (for JavaScript/React testing)
+Testing Library (e.g., React Testing Library)
+
+Build Tools:
+Webpack
+
+Server-Side Rendering (SSR):
+Next.js
+
+Authentication/Authorization:
+OAuth
+JSON Web Tokens (JWT)
+
+Monitoring and Logging:
+Sentry
+ELK Stack (Elasticsearch, Logstash, Kibana)
+
+GraphQL Tools:
+Apollo Client/Server
+
+WebSockets:
+Socket.IO
+
+Task Runners:
+npm scripts
+
+API Documentation:
+Swagger/OpenAPI
+
+Code Quality:
+ESLint
+Prettier
+
+Continuous Integration/Continuous Deployment (CI/CD):
+Jenkins
+GitLab CI
+GitHub Actions
+
+Database Management:
+Sequelize (for PostgreSQL)
+Mongoose (for MongoDB)
+
+Design Tools:
+Figma, Canva, 
+
 I've dabbled in a few programming languages and stacks, like Java, C#, GoLang, Rails, and Python, but they're not exactly my forte.
 
 ## Entre em Contato
