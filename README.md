@@ -9,19 +9,26 @@ I'm a software developer passionate about creating innovative and efficient solu
 ## My Skills
 **My Favorite Stack:**
 
-- **JavaScript:**
-  - ReactJS
-  - NextJS
-
-- **NodeJS**
-
-- **Docker**
-
-- **Infrastructure:**
-  - Netlify
-  - Vercel
-  - AWS
-  - DigitalOcean
+![Javascript](https://img.shields.io/badge/Javascript-282C34?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/Typescript-282C34?logo=typescript)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-282C34?logo=node.js)&nbsp;
+![React](https://img.shields.io/badge/React-282C34?logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/React%20Native-282C34?logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-282C34?logo=next.js)&nbsp; 
+![HTML](https://img.shields.io/badge/HTML-282C34?logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6)&nbsp;
+![SASS](https://img.shields.io/badge/SASS-282C34?logo=sass)&nbsp; 
+![Styled components](https://img.shields.io/badge/Styled%20components-282C34?logo=styled-components)&nbsp;
+![Storybook](https://img.shields.io/badge/Storybook-282C34?logo=storybook)&nbsp; 
+![Jest](https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=94404d)&nbsp;
+![Git](https://img.shields.io/badge/Git-282C34?logo=git)&nbsp;
+![Github](https://img.shields.io/badge/Github-282C34?logo=github)&nbsp; 
+![Bitbucket](https://img.shields.io/badge/Bitbucket-282C34?logo=bitbucket&logoColor=0747a6)&nbsp;
+![Redis](https://img.shields.io/badge/Redis-282C34?logo=redis)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-282C34?logo=docker)&nbsp;
+![Netlify](https://img.shields.io/badge/Netlify-282C34?logo=netlify)&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-282C34?logo=vercel)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-282C34?logo=amazon)&nbsp;
 
 - **Content Management Systems (CMS):**
   - Strapi
