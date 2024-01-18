@@ -1,10 +1,12 @@
 # Hello, I'm André Valle 👋
 
 ## About Me
-I'm a software developer passionate about creating innovative and efficient solutions. With over 10 years of experience in both client and server-side JavaScript, I'm always seeking projects that challenge me to grow and push me out of my comfort zone.
+I am a dedicated software developer with a passion for crafting innovative and efficient solutions. Boasting a robust background of over 10 years in client and server-side JavaScript, I am currently exploring new opportunities that inspire growth and prompt me to step outside my comfort zone.
 
-- 🔭 Currently, I'm working as the CTO of a digital marketing agency, developing high-performance websites with Next.js. I've created a CLI to automate the rapid development of websites and landing pages, making the agency's business model more scalable. The CLI defines a template from various themes we've developed for each market segment.
-- ⚡ Fun Fact: Programming has always been my hobby since adolescence, but I also enjoy playing the guitar, gaming online, and my favorite sport is Jiu-Jitsu.
+- 🔭 Previously, I held the position of Senior Software Engineer at Mercado Livre, where I played a pivotal role in the core development team. There, I contributed significantly to creating a JavaScript library designed for reuse by other engineers across the organization. This library, integral to our projects, has left a lasting impact on the seamless collaboration and efficiency of the engineering team.
+- ⚡ Fun Fact: While programming has been a lifelong hobby since my adolescence, I also find joy in playing the guitar, engaging in online gaming, and practicing Jiu-Jitsu, my favorite sport.
+🌐 Open to new opportunities and challenges in the dynamic field of software development.
+
 
 ## My Skills
 **My Favorite Stack:**
