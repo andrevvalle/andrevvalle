@@ -1,6 +1,6 @@
 # Hello, I'm André Valle 👋
 
-I'm a full-time dad and full-stack software developer from Brazil.
+I'm a full-stack software developer from Brazil.
 
 CTO at @VerticeAgency.
 
