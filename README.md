@@ -2,8 +2,6 @@
 
 I'm a full-stack software developer from Brazil.
 
-CTO at @VerticeAgency.
-
 [![Twitter Badge](https://img.shields.io/badge/-@andrevitorvalle-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/andrevitorvalle)](https://twitter.com/andrevitorvalle) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrevvalle/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrevvalle@gmail.com)
